@@ -4,7 +4,7 @@ from fastapi.staticfiles import StaticFiles
 
 
 app = FastAPI(
-    #docs_url=None,
+    #docs_url=None, // You can use https://<<example_url>>/docs or https://<<example_url>>/redoc to consult the  requests methods avaliable 
     #redoc_url=None
 )
 # Routers
