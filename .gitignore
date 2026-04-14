@@ -1,1 +1,3 @@
 /Backend/FastAPI/.env
+*.py[cod]
+*$py.class
